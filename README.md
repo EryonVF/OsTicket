@@ -1,0 +1,2 @@
+# OsTicket
+Instalación de OsTicket
