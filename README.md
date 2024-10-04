@@ -6,6 +6,7 @@ XAMPP Y POSTMAN
 
 ### Instalación 
 Para esta instalacion no recomiendo realizar una copia del repositorio completo ya que puede generarte errores al intentar ejecutarlo.
+Crearemos el archivo upload\include\api.users.php que es necesario para el funcionamiento de esta API
 
 _Una vez tengas Osticket funcional y configurado sera necesario:_
 1. Iniciar sesion como un agente Osticket.
